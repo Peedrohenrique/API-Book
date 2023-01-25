@@ -25,13 +25,6 @@ export default function Home() {
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
-              style={{
-                background:
-                  "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
-                width: "13rem",
-                height: "11rem",
-                cursor: "pointer",
-              }}
             >
               <h2 className={inter.className}>
                 {end.title} <span>-&gt;</span>
