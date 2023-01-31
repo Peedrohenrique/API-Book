@@ -1,4 +1,4 @@
-import book from "../../dados/fantasia.json";
+import book from "../../dados/01-fantasia.json";
 
 export default function handlerBook(req, res) {
   const { id } = req.query;
