@@ -9,4 +9,9 @@ export const Endpoint = [
     text: "Romance",
     endpoint: "/api/romance",
   },
+  {
+    title: "Endpoint",
+    text: "Negócios",
+    endpoint: "/api/negocios",
+  },
 ];

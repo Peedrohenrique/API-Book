@@ -8,5 +8,5 @@ export default function handlerBook(req, res) {
   // User with id exists
   return filtered.length > 0
     ? res.status(200).json(filtered[0])
-    : res.status(404).json({ message: `User with id: ${id} not found.` });
+    : res.status(404).json({ message: `Livro com id: ${id} não encontrado.` });
 }

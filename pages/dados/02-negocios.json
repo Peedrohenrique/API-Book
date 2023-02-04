@@ -3,184 +3,170 @@
     "id": 201,
     "name": "O homem mais rico da Babilônia",
     "year": "4 agosto 2017",
-    "author": "HarperCollins",
+    "author": [
+      {
+        "name": "George S. Clason"
+      },
+      {
+        "about": "George Samuel Clason nasceu em 7 de novembro de 1874, em Luisiana, Missouri. O escritor frequentou a Universidade de Nebraska e foi fundador de duas empresas, a Clason Map Company of Denver e a Colorado and the Clason Publishing Company. Com a última, ele publicou o primeiro atlas rodoviário dos Estados Unidos e do Canadá. Clason serviu ao Exército Americano durante a Guerra Hispano-Americana e morreu em 1957 na cidade de Napa, na Califórnia."
+      }
+    ],
+    "pages": "",
     "image": "https://m.media-amazon.com/images/I/51cB4wSNxQL._SX333_BO1,204,203,200_.jpg",
     "download": "https://faroeditorial.com.br/site2020/wp-content/uploads/2017/04/Mini-livro-o-homem-mais-rico-.pdf",
     "description": "Com mais de dois milhões de exemplares vendidos no mundo todo, O homem mais rico da Babilônia é um clássico sobre como multiplicar riqueza e solucionar problemas financeiros. Baseando-se nos segredos de sucesso dos antigos babilônicos os habitantes da cidade mais rica e próspera de seu tempo , George S. Clason mostra soluções ao mesmo tempo sábias e muito atuais para evitar a falta de dinheiro, como não desperdiçar recursos durante tempos de opulência, buscar conhecimento e informação em vez de apenas lucro, assegurar uma renda para o futuro, manter a pontualidade no pagamento de dívidas e, sobretudo, cultivar as próprias aptidões, tornando-se cada vez mais habilidoso e consciente."
   },
   {
     "id": 202,
-    "name": "Minions 2: A Origem de Gru",
-    "year": "29 de junho de 2022",
-    "image": "https://br.web.img2.acsta.net/c_310_420/pictures/20/02/03/15/22/4954456.jpg",
-    "description": "Minions 2: A Origem de Gru é a continuação das aventuras dos Minions, sempre em busca de um líder tirânico. Desta vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão."
+    "name": "Os segredos da mente milionária",
+    "year": "16 outubro 2013",
+    "author": [
+      {
+        "name": "T. Harv Eker"
+      },
+      {
+        "about": "Aplicando os princípios que ensina, T. HARV EKER conseguiu superar uma penosa fase de altos e baixos em sua vida e se tornar milionário em apenas dois anos e meio. Hoje ele preside a Peak Potentials Training, uma das mais bem sucedidas empresas de treinamento pessoal nos Estados Unidos e no Canadá, responsável pela organização de seminários e cursos sobre os princípios da mente milionária que atraem participantes de todo o mundo. Mais de 250 mil pessoas já assistiram às suas palestras."
+      }
+    ],
+    "pages": "189 páginas",
+    "image": "https://i.pinimg.com/564x/04/b0/0f/04b00fbeacd714b1240ede96602e3fa5.jpg",
+    "download": "https://static.fecam.net.br/uploads/342/arquivos/1751673_4_Os_Segredos_Da_Mente_Milionaria_.pdf",
+    "description": "Se as suas finanças andam na corda bamba, talvez esteja na hora de você refletir sobre o que T. Harv Eker chama de 'o seu modelo de dinheiro'  um conjunto de crenças que cada um de nós alimenta desde a infância e que molda o nosso destino financeiro, quase sempre nos levando para uma situação difícil."
   },
   {
     "id": 203,
-    "name": "Esposa de Aluguel",
-    "year": "11 de outubro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/10/03/10/16/1646283.jpg",
-    "description": "Para evitar ser retirado do testamento de sua mãe, o solteirão Luiz resolve contratar uma atriz, para se passar por sua noiva."
+    "name": "Me Poupe! (Edição atualizada)",
+    "year": "30 novembro 2020",
+    "author": [
+      {
+        "name": "Nathalia Arcuri"
+      },
+      {
+        "about": "Nathalia Arcuri é jornalista, educadora e coach financeira. Aos 7 anos começou a poupar para comprar um carro quando fizesse 18. Com 23 comprou o primeiro apartamento à vista. Aos 30 pediu demissão do emprego de repórter de TV e montou o canal Me Poupe!, no YouTube, que já conta com mais de 2 milhões de inscritos e é pioneiro na criação do conceito de entretenimento financeiro. Aos 32 se tornou milionária e tem orgulho de dizer que, aos 35 anos, está perto de conquistar a independência financeira. Me Poupe! é o seu primeiro livro."
+      }
+    ],
+    "pages": "178 páginas",
+    "image": "https://livrariascuritiba.vteximg.com.br/arquivos/ids/1951089-1000-1000/lv468903_1.jpg",
+    "download": "https://bossamae.com.br/novo/wp-content/uploads/2019/04/Me-Poupe-Nathalia-Arcuri.pdf",
+    "description": "Como economizar no dia a dia? Como enfrentar crises econômicas com tranquilidade? Como poupar mesmo ganhando pouco? Quais são os melhores (e os piores) investimentos? Será que está na hora de investir em ações? Como poupar para o futuro sem abrir mão dos desejos e necessidades do presente?"
   },
   {
     "id": 204,
-    "name": "O Jeremias",
-    "year": "21 de outubro de 2016",
-    "image": "https://br.web.img2.acsta.net/c_310_420/pictures/16/09/23/18/43/135977.jpg",
-    "description": "Jeremias (Martín Castro) é uma criança de 8 anos extremamente inteligente. Quando descobre que que é um gênio, com um Q.I. acima do normal, ele luta para ser bem sucedido, apesar da ignorância e pobreza da sua família, cujo pai tenta lucrar com a genialidade do filho. Aos 8 anos, ele precisa antecipar uma das mais difíceis questões da vida e desvendar o que deseja ser quando crescer."
+    "name": "O investidor inteligente",
+    "year": "25 janeiro 2016",
+    "author": [
+      {
+        "name": "Benjamin Graham"
+      },
+      {
+        "about": "Benjamin Graham foi um grande investidor e empreendedor americano. Ele é considerado o pai do conceito de investimento em valor ou value investing. Teve como discípulos alguns dos empresários mais bem-sucedidos da história, como William J. Ruane, Irving Kahn, Walter J. Schloss e o grande Warren Buffett. Apesar de publicados no início do século XX, seus livros são influências importantes para executivos e empreendedores até hoje, fazendo com que Graham seja leitura obrigatória para estudantes de administração, economia e todos aqueles que queiram se aventurar ou entender melhor o mercado financeiro."
+      }
+    ],
+    "pages": "672 páginas",
+    "image": "https://a-static.mlcdn.com.br/800x560/livro-o-investidor-inteligente/magazineluiza/223904200/af110c78a8951e8c55e9af9f6350744b.jpg",
+    "download": "https://inteligencia007.files.wordpress.com/2019/06/o_investidor_inteligente_-_benjamin_grahamm.pdf",
+    "description": "Maior consultor de investimentos do século XX, Benjamin Graham ensinou e inspirou milhares de pessoas ao redor do mundo. Seu conceito de “valor de investimento” protege os investidores de cometer erros substanciais e os ensina a desenvolver estratégias de longo prazo."
   },
   {
     "id": 205,
-    "name": "O Lendário Cão Guerreiro",
-    "year": "14 de julho de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/06/09/17/12/4821919.jpg",
-    "description": "Um samurai espera realizar seus sonhos, mas passa por uma série de testes para derrotar seus inimigos."
+    "name": "Do Mil ao Milhão. Sem Cortar o Cafezinho",
+    "year": "10 novembro 2018",
+    "author": [
+      {
+        "name": "Thiago Nigro"
+      },
+      {
+        "about": "Quando começou a ter contato com o mercado financeiro, Thiago Nigro percebeu como nós, brasileiros, éramos reféns da falta de informação sobre o mundo dos investimentos. Para investir com maior rentabilidade e se aposentar o mais rápido possível, estudou tudo que podia para ter mais conhecimento do que os profissionais que estavam na outra ponta, “nos ajudando”! Depois disso, ingressou no mercado financeiro, montou seu próprio escritório de investimentos e atendeu mais de 5 mil investidores. Então, sentiu que deveria ir para a internet, e com isso, criou O Primo Rico. Com o passar do tempo, começou a falar com milhões de pessoas todos os meses, atingiu sua liberdade financeira e também abriu a semana da educação financeira no Banco Central. Do Mil Ao Milhão, seu primeiro livro, foi o livro nacional mais vendido em 2019. Sua missão é fazer com que o dinheiro trabalhe para você  e não o contrário! Seja bem-vindo à comunidade O Primo Rico."
+      }
+    ],
+    "pages": "192 páginas",
+    "image": "https://i.pinimg.com/564x/99/10/c5/9910c550571816127e4b7d2004f241fc.jpg",
+    "download": "https://livrogratuitosja.com/wp-content/uploads/2021/03/Do-mil-ao-milhao-by-Thiago-Nigro-Nigro-Thiago-z-lib.org_.pdf",
+    "description": "Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais."
   },
   {
     "id": 206,
-    "name": "Justiceiras",
-    "year": "14 de setembro de 2022",
-    "image": "https://br.web.img2.acsta.net/c_310_420/pictures/22/09/16/19/40/4744831.png",
-    "description": "Depois de sofrerem bullying, duas meninas vão atrás daqueles que as machucaram para se vingar."
+    "name": "Mais esperto que o Diabo",
+    "year": "10 julho 2014",
+    "author": [
+      {
+        "name": "Napoleon Hill"
+      },
+      {
+        "about": "Napoleon Hill nasceu em 1883, em Wise County, na Virgínia. Começou a carreira de escritor aos 13 anos de idade como “repórter da montanha” para jornais de cidades pequenas e seguiu em frente até se tornar o mais querido autor motivacional dos Estados Unidos. Sua obra mais famosa, Think and Grow Rich, é um dos livros mais vendidos de todos os tempos, e a versão revista e atualizada foi lançada no Brasil pela Citadel com o título Quem pensa enriquece  O legado"
+      }
+    ],
+    "pages": "208 páginas",
+    "image": "https://i.pinimg.com/564x/d6/ac/94/d6ac94a41ee941696a2b8c8de89d935c.jpg",
+    "download": "https://drive.google.com/file/d/1CSJtW6puhRQ2DFM6jYHA7Vj_19vAkCae/edit",
+    "description": "Neste livro, inédito no Brasil, você vai descobrir, após 75 anos de segredo, por meio dessa entrevista exclusiva que Napoleon Hill fez, quebrando o código secreto da mente do Diabo: Quem é o Diabo? Onde ele habita? Quais suas principais armas mentais? Quem são os alienados e de que forma eles ou elas se alienam? De que forma o Diabo influencia a nossa vida do dia a dia? Como a sua dominação influencia nossas atitudes? O que é o medo? Como nossos líderes religiosos e nossos professores são afetados pelo Diabo?"
   },
   {
     "id": 207,
-    "name": "Abracadabra 2",
-    "year": "27 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/09/12/09/10/0257078.jpg",
-    "description": "As irmãs Sanderson voltam do inferno sedentas por vingança. Cabe a três amigas salvarem a cidade de Salem no Dia de Halloween."
+    "name": "Pai Rico, Pai Pobre",
+    "year": "5 setembro 2018",
+    "author": [
+      {
+        "name": "Robert T. Kiyosaki"
+      },
+      {
+        "about": "Robert Kiyosaki, é empresário, investidor e escritor e acredita que o mundo precisa de mais empresários para criação de empregos. Kiyosaki é mais conhecido como o autor de Pai Rico Pai Pobre  o livro # 1 de finanças pessoais de todos os tempos, que desafiou e mudou a forma como milhões de pessoas ao redor do mundo pensam sobre dinheiro. Com uma perspectiva que muitas vezes desafia o pensamento convencional, Robert ganhou reputação por seu discurso direto, irreverente e corajoso. Ele é considerado um defensor apaixonado da educação financeira."
+      }
+    ],
+    "pages": "336 páginas",
+    "image": "https://a-static.mlcdn.com.br/800x560/livro-pai-rico-pai-pobre-robert-t-kiyosaki/magazineluiza/227776400/0ac422f12076200fe078abf0c9a399ac.jpg",
+    "download": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlbnRyZW5lZ3xneDpkMDM2YWJiNTA3NjhiMjQ",
+    "description": "A escola prepara as crianças para o mundo real?  Essa é a primeira pergunta com a qual o leitor se depara neste livro.  O recado é ousado e direto: boa formação e notas altas não bastam para assegurar o sucesso de alguém."
   },
   {
     "id": 208,
-    "name": "DC Liga dos Superpets",
-    "year": "27 de julho de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQN9v8dIkEYtrGhLULweNNKONHg.jpg",
-    "description": "Krypto, o Supercão, precisa convencer um grupo excêntrico de animais a dominar seus novos poderes para ajudá-lo no resgate da Liga da Justiça."
+    "name": "A bola de neve",
+    "year": "1 agosto 2012",
+    "author": [
+      {
+        "name": "Alice Schroeder"
+      },
+      {
+        "about": "Alice Schroeder trabalhava como analista em Wall Street e ocupava o posto de diretora administrativa da Morgan Stanley quando aceitou a sugestão de Warren Buffett para se tornar escritora em tempo integral. Nascida no Texas, Alice cursou a Universidade do Texas em Austin, onde também fez MBA. Mais tarde mudou-se para a Costa Leste para trabalhar em finanças. Ex-contadora pública, mora em Connecticut com o marido. Levou cinco anos para escrever A bola de neve, seguindo instruções do próprio Buffett: Seja perfeccionista e não ceda a pressões de prazos. Entregue quando estiver pronto."
+      }
+    ],
+    "pages": "992 páginas",
+    "image": "https://m.media-amazon.com/images/I/719WFcMb5oL.jpg",
+    "download": "https://livrogratuitosja.com/wp-content/uploads/2021/03/A-bola-de-neve-Warren-Buffett-e-o-negocio-da-vida-by-Alice-Schroeder-z-lib.org_.epub_.pdf",
+    "description": "Esse é o livro definitivo sobre a vida de um dos homens mais respeitados e fascinantes do mundo: Warren Buffett. O lendário investidor pela primeira vez autorizou alguém a produzir sua biografia, concedendo a Alice Schroeder acesso irrestrito a seus familiares, amigos e parceiros  e, é claro, a ele mesmo."
   },
   {
     "id": 209,
-    "name": "Abracadabra",
-    "year": "4 de agosto de 2017",
-    "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/78/87/87/19482335.jpg",
-    "description": "Winnie (Bette Midler), Sarah (Sarah Jessica Parker) e Mary (Kathy Najimy) são três bruxas do século XVII, que chegam ao século XX após seus espíritos serem evocados no Dia das Bruxas."
+    "name": "O poder do hábito",
+    "year": "1 outubro 2012",
+    "author": [
+      {
+        "name": "Charles Duhigg"
+      },
+      {
+        "about": "Charles Duhhigg é um repórter estadunidense, ganhador do Prêmio Pulitzer, que trabalha para o jornal The New York Times, graduado pela Universidade Yale e Harvard Business School, situado em Nova York. Autor de dois livros sobre hábitos e produtividade, intitulados O Poder do Hábito e Mais Rápido e Melhor."
+      }
+    ],
+    "pages": "408 páginas",
+    "image": "https://m.media-amazon.com/images/I/81XTXQEVPlL.jpg",
+    "download": "https://docs.google.com/file/d/0B1tMSc4rebmaUWctM3pCNktkbEk/view?resourcekey=0-6jNwSxK97NLhk8WTJwKx6Q",
+    "description": "Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida. Em um laboratório, neurologistas descobriram que os padrões dentro do cérebro dela mudaram de maneira fundamental."
   },
   {
     "id": 210,
-    "name": "Vizinhos",
-    "year": "1 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/08/26/16/46/2639434.jpg",
-    "description": "Um casal se muda para uma pequena cidade para levar um vida tranquila. Mas os planos vão por água abaixo quando eles conhecem seu novo vizinho."
-  },
-  {
-    "id": 211,
-    "name": "Tudo em Todo Lugar ao Mesmo Tempo",
-    "year": "24 de março de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/05/16/17/59/5165498.jpg",
-    "description": "Uma mulher se envolve em uma aventura onde somente ela pode salvar o mundo."
-  },
-  {
-    "id": 212,
-    "name": "Uma Pitada de Sorte",
-    "year": "15 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/08/17/22/33/1681903.jpg",
-    "description": "Pérola sonha em ser chef de cozinha, mas até que seu sonho seja realidade ela precisa se dividir em dois empregos: animadora de festa e assistente de um restaurante. Sua sorte vem à tona quando é aprovada em um programa de televisão de um famoso chef argentino."
-  },
-  {
-    "id": 213,
-    "name": "Mais Que Amigos",
-    "year": "30 de setembro de 2022",
-    "image": "https://br.web.img2.acsta.net/c_310_420/pictures/22/09/22/18/43/2063663.png",
-    "description": "Bros é uma comédia romântica sobre dois homens gays e seus caminhos em direção ao amor."
-  },
-  {
-    "id": 214,
-    "name": "Divertida Mente",
-    "year": "9 de junho de 2015",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/15/05/14/14/20/365361.jpg",
-    "description": "Riley é uma garota divertida de 11 anos de idade, que deve enfrentar mudanças importantes em sua vida quando seus pais decidem deixar a sua cidade natal, no estado de Minnesota, para viver em San Francisco. Dentro do cérebro de Riley, convivem várias emoções diferentes, como a Alegria, o Medo, a Raiva, o Nojinho e a Tristeza. A líder deles é Alegria, que se esforça bastante para fazer com que a vida de Riley seja sempre feliz. Entretanto, uma confusão na sala de controle faz com que ela e Tristeza sejam expelidas para fora do local. Agora, elas precisam percorrer as várias ilhas existentes nos pensamentos de Riley para que possam retornar à sala de controle - e, enquanto isto não acontece, a vida da garota muda radicalmente."
-  },
-  {
-    "id": 215,
-    "name": "Do Jeito que Elas Querem",
-    "year": "18 de maio de 2018",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/18/05/02/16/31/2301283.jpg",
-    "description": "Nos arredores da Califórnia, quatro amigas de longa data estão na casa dos 60 anos e decidem ler no clube do livro mensal o romance Cinquenta Tons de Cinza. Esse não é o tipo de livro que elas leem normalmente, o que faz com que a vida dessas mulheres bem-sucedidas e refinadas mude completamente."
-  },
-  {
-    "id": 216,
-    "name": "As Branquelas",
-    "year": "23 de junho de 2004",
-    "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/97/52/82/20534159.jpg",
-    "description": "Os irmãos Marcus e Kevin se disfarçam de mulheres brancas em uma investigação sobre um possível sequestro."
-  },
-  {
-    "id": 217,
-    "name": "Acampamento Intergaláctico",
-    "year": "22 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/07/14/20/11/0397809.jpg",
-    "description": "Ronaldo acredita em extraterrestres desde criança e acaba ganhando um convite para o Acampamento Intergaláctico para desvendar os segredos do universo e provar a existência de outros seres."
-  },
-  {
-    "id": 218,
-    "name": "Sistema Bruto",
-    "year": "29 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/07/08/19/51/0767737.png",
-    "description": "Em Sistema Bruto, Bruna e Rosa são duas amigas apaixonadas por velocidade e adrenalina, que farão de tudo para provar que são melhores que os rapazes atrás do volante."
-  },
-  {
-    "id": 219,
-    "name": "Red: Crescer É uma Fera",
-    "year": "1 de março de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/21/11/18/16/57/5746772.jpg",
-    "description": "Em Red: Crescer É uma Fera, quando uma adolescente fica muito nervosa, se transforma em um grande panda vermelho."
-  },
-  {
-    "id": 220,
-    "name": "10 Coisas que Eu Odeio em Você",
-    "year": "30 de março de 1999",
-    "image": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/67/52/20107757.jpg",
-    "description": "A situação está tensa na casa dos Stratford. Bianca (Larisa Oleynik) não vê a hora de arranjar um namorado, mas seu pai (Larry Miller) não permite que ela saia com garotos. Após muita insistência, o pai toma uma resolução: Bianca pode namorar, desde que sua irmã, Katharina (Julia Stiles), namore também. Só que Katharina é uma verdadeira megera, que não tem amigos na escola nem em lugar algum. Para resolver a questão, Cameron (Joseph Gordon-Levitt), apaixonado por Bianca, resolve contratar o misterioso Patrick Verona (Heath Ledger) para seduzir a futura cunhada."
-  },
-  {
-    "id": 221,
-    "name": "Monster High - O Filme",
-    "year": "6 de outubro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/09/27/20/03/4647405.png",
-    "description": "Quando um plano faz com que a identidade real de Clalwdeen seja revelado para a escola inteira, ela deve aprender a abraçar seu coração de monstro e encontrar uma maneira de salvar seus amigos."
-  },
-  {
-    "id": 222,
-    "name": "A Fantástica Fábrica de Chocolate",
-    "year": "13 de julho de 2005",
-    "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/07/40/19871748.jpg",
-    "description": "Willy Wonka (Johnny Depp) é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket (Freddie Highmore), encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há 15 anos. Encantado com as maravilhas da fábrica, Charlie fica cada vez mais fascinado com a visita."
-  },
-  {
-    "id": 223,
-    "name": "O Exorcismo da Minha Melhor Amiga",
-    "year": "29 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/08/25/23/13/0690116.png",
-    "description": "Duas melhores amigas tem que enfrentar eventos tenebrosos após uma noite de mergulho que acaba dando errado. Uma delas acaba sendo possuída pelo diabo."
-  },
-  {
-    "id": 224,
-    "name": "Emma",
-    "year": "13 de fevereiro de 2020",
-    "image": "https://br.web.img2.acsta.net/c_310_420/pictures/19/12/04/14/45/2094218.jpg",
-    "description": "Adaptação da famosa obra da autora Jane Austen."
-  },
-  {
-    "id": 225,
-    "name": "Ingresso para o Paraíso",
-    "year": "8 de setembro de 2022",
-    "image": "https://br.web.img3.acsta.net/c_310_420/pictures/22/09/06/20/33/1565110.jpg",
-    "description": "Um casal divorciado tenta impedir o casamento da filha para que ela não cometa o mesmo erro que eles."
-  },
-  {
-    "id": 226,
-    "name": "Uma Quedinha de Natal",
-    "year": "10 de novembro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sBnqEJbZzlBxSeyDp0eTomUYHSH.jpg",
-    "description": "Depois de perder a memória em um acidente de esqui, uma herdeira mimada acaba sob os cuidados de um desafortunado viúvo e sua filha durante as festas de fim de ano."
+    "name": "Nós queremos que você fique rico",
+    "year": "13 setembro 2017",
+    "author": [
+      {
+        "name": "Donald J. Trump e Robert T. Kiyosaki"
+      },
+      {
+        "about": "Donald Trump, é a própria definição da história de sucesso americana, estabelecendo continuamente novos padrões de excelência, ao mesmo tempo em que amplia seus interesses no mercado imobiliário, jogos, esportes e entretenimento. Trump é empresário, ex-apresentador de reality show e líder da The Trump Organization, a principal holding de seus empreendimentos imobiliários e outros interesses comerciais presidente. Ele foi eleito o 45º presidente dos Estados Unidos na eleição de 2016 pelo Partido Republicano. Robert Kiyosaki, é empresário, investidor e escritor e acredita que o mundo precisa de mais empresários para criação de empregos. Kiyosaki é mais conhecido como o autor de Pai Rico Pai Pobre  o livro # 1 de finanças pessoais de todos os tempos, que desafiou e mudou a forma como milhões de pessoas ao redor do mundo pensam sobre dinheiro. Com uma perspectiva que muitas vezes desafia o pensamento convencional, Robert ganhou reputação por seu discurso direto, irreverente e corajoso. Ele é considerado um defensor apaixonado da educação financeira."
+      }
+    ],
+    "pages": "352 páginas",
+    "image": "https://m.media-amazon.com/images/I/61SAwym1QSL.jpg",
+    "download": "https://drive.google.com/file/d/1u0voe-Ixs4GwwMn-vXT7Qrv95TNNYVaC/view",
+    "description": "Dois homens, uma preocupação: seu poder de decisão sobre suas finanças; ou seja, o controle de seu futuro e, principalmente, sua independência financeira."
   }
 ]
