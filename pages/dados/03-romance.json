@@ -3,176 +3,200 @@
     "id": 401,
     "name": "A Culpa É das Estrelas",
     "year": "10 de julho de 2012",
+    "author": [
+      {
+        "name": "John Green"
+      },
+      {
+        "about": "John Green é um dos escritores norte-americanos mais queridos pelo público jovem e igualmente festejado pela crítica. É autor best-seller do The New York Times, premiado com a Printz Medal, o Printz Honor da American Library Association e o Edgar Award e foi duas vezes finalista do prêmio literário do LA Times."
+      },
+      {
+        "photo": "https://i.pinimg.com/564x/53/7d/9f/537d9fb5ca79afa76e22d3318bdf5e0a.jpg"
+      }
+    ],
+    "pages": "288 páginas",
     "image": "https://www.intrinseca.com.br/upload/livros/Capa_CulpaDasEstrelas_139x208.jpg",
     "download": "https://www.amures.org.br/uploads/1521/arquivos/1348605_A_Culpa_E_Das_Estrelas___John_Green.pdf",
     "description": "Com humor, doçura e melancolia, John Green narra o romance de dois adolescentes que se conhecem em um Grupo de Apoio para Crianças com Câncer. Hazel é uma paciente terminal cuja vida vem sendo prolongada por uma nova droga. Augustus foi jogador de basquete até perder uma perna para o osteossarcoma."
   },
   {
     "id": 402,
-    "name": "Os 13 Sobreviventes da Caverna",
-    "year": "5 de outubro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xF55KYpT70qho6PkJf4NQpgjNdL.jpg",
-    "description": "Neste documentário cativante, os jovens de uma equipe juvenil de futebol contam como conseguiram sobreviver depois de ficarem presos na caverna Tham Luang em 2018."
+    "name": "Um Lugar Bem Longe Daqui",
+    "year": "29 julho 2019",
+    "author": [
+      {
+        "name": "Delia Owens"
+      },
+      {
+        "about": "DELIA OWENS é cientista e escritora, coautora de três best-sellers que exploram suas jornadas à África. Já ganhou o John Burroughs Award for Nature Writing e teve artigos publicados em diversos periódicos, como Nature, The African Journal of Ecology e International Wildlife. Um lugar bem longe daqui é seu primeiro romance e teve os direitos de tradução adquiridos em 39 idiomas. Delia atualmente mora no estado americano de Idaho, onde dá continuidade a seu trabalho de ajuda aos habitantes e à vida natural da Zâmbia."
+      },
+      {
+        "photo": "https://i.guim.co.uk/img/media/82c39d8558bc60fa685ef2085f07f46bc7ae18c0/0_414_2401_1440/master/2401.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f46423514eb4e871c5146657cf0bf58"
+      }
+    ],
+    "pages": "336 páginas",
+    "image": "https://m.media-amazon.com/images/I/61LhAUifXYL.jpg",
+    "download": "https://www.intrinseca.com.br/upload/livros/1%C2%BACAP_UmLugarBemLongeDaqui.pdf",
+    "description": "Por anos, boatos sobre Kya Clark, a 'Menina do Brejo', assombraram Barkley Cove, uma calma cidade costeira da Carolina do Norte. Ela, no entanto, não é o que todos dizem. Sensata e inteligente, Kya sobreviveu por anos sozinha no pântano que chama de lar, tendo as gaivotas como amigas e a areia como professora. Abandonada pela mãe, que não conseguiu suportar o marido abusivo e alcoólatra, e depois pelos irmãos, a menina viveu algum tempo na companhia negligente e por vezes brutal do pai, que acabou também por deixá-la."
   },
   {
     "id": 403,
-    "name": "O Time da Redenção",
-    "year": "7 de outubro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg",
-    "description": "Após o fiasco nos Jogos Olímpicos de 2004, o time de basquete masculino dos EUA busca a redenção e parte para a briga pelo ouro nos Jogos de Pequim de 2008."
+    "name": "Teto Para Dois",
+    "year": "9 setembro 2019",
+    "author": [
+      {
+        "name": "Beth O'Leary"
+      },
+      {
+        "about": "BETH O'LEARY estudou inglês na universidade antes de começar a trabalhar com publicações infantis. Ela vive o mais perto possível do campo, sem se afastar muito de Londres, e escreveu Teto para dois durante as viagens de trem para o trabalho. Ela agora se dedica em tempo integral à escrita e, se não estiver trabalhando, você a encontrará em algum lugar com um livro, uma xícara de chá e vários casaquinhos de lã (qualquer que seja o tempo)."
+      },
+      {
+        "photo": "https://www.intrinseca.com.br/upload/autor/Beth-G.jpg"
+      }
+    ],
+    "pages": "400 páginas",
+    "image": "https://m.media-amazon.com/images/I/61wlrmv1b4L.jpg",
+    "download": "https://napontadospes693885424.files.wordpress.com/2020/03/teto-para-dois-beth-o-leary.pdf",
+    "description": "Três meses após o término do seu relacionamento, Tiffy finalmente sai do apartamento do ex-namorado. Agora ela precisa para ontem de um lugar barato para morar. Contrariando os amigos, ela topa um acordo bastante inusitado."
   },
   {
     "id": 404,
-    "name": "Uma Viagem ao Infinito",
-    "year": "26 de setembro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38KllKVpeTLvirHvuLWWy5I71rX.jpg",
-    "description": "Nomes importantes da matemática, da física de partículas e da cosmologia mergulham no infinito e em suas desconcertantes implicações para o universo."
+    "name": "Orgulho e preconceito",
+    "year": "12 abril 2018",
+    "author": [
+      {
+        "name": "Jane Austen"
+      },
+      {
+        "about": "Jane Austen (1775-1817) foi uma escritora inglesa, considerada uma das maiores romancistas da literatura inglesas do século XIX, autora de clássicos como 'Orgulho e Preconceito' e 'Razão e Sensibilidade'."
+      },
+      {
+        "photo": "http://s2.glbimg.com/NlD81at44xu_dyTZwZOG-oXLDik=/e.glbimg.com/og/ed/f/original/2017/07/18/jane-austen.png"
+      }
+    ],
+    "pages": "424 páginas",
+    "image": "https://m.media-amazon.com/images/I/719esIW3D7L.jpg",
+    "download": "https://reciclaleitores.com.br/wp-content/uploads/2020/10/ORGULHO-E-PRECONCEITO-Austen-Jane.pdf",
+    "description": "Orgulho e preconceito é o livro mais famoso de Jane Austen e possui uma série de personagens inesquecíveis e um enredo memorável. Austen nos apresenta Elizabeth Bennet como heroína irresistível e seu pretendente aristocrático, o sr. Darcy. Nesse livro, aspectos diferentes são abordados: orgulho encontra preconceito, ascendência social confronta desprezo social, equívocos e julgamentos antecipados conduzem alguns personagens ao sofrimento e ao escândalo. O livro pode ser considerado a obra-prima da escritora, que equilibra comédia com seriedade, observação meticulosa das atitudes humanas e sua ironia refinada. A nova coleção possui capa dura e estilo inspirado nos bullet journals."
   },
   {
     "id": 405,
-    "name": "After Porn Ends 2",
-    "year": "28 de março de 2017",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
-    "description": "Antigas estrelas de capa das fitas VHS lembram suas carreiras na indústria adulta com carinho, enquanto outras lutam para encontrar uma maneira de emergir com novas carreiras."
+    "name": "Anna Kariênina",
+    "year": "7 julho 2017",
+    "author": [
+      {
+        "name": "Liev Tolstoi"
+      },
+      {
+        "about": "O conde LIEV TOLSTÓI nasceu em 1828. Participou da Guerra da Crimeia e se casou com Sofia Andrêievna Berhs em 1862. Enquanto administrava suas propriedades nas estepes do Volga e dava continuidade a projetos educacionais, escrevia Guerra e paz (1869) e Anna Kariênina (1877). Ele se tornou um moralista extremista e, em uma série de panfletos, a partir de 1880, expressou sua rejeição em relação ao Estado e à Igreja. Morreu em 1910, em meio a uma dramática fuga de casa, na pequena estação de trem de Astápovo."
+      },
+      {
+        "photo": "https://cdn.pensador.com/img/authors/le/on/leon-tolstoi-2-l.jpg"
+      }
+    ],
+    "pages": "808 páginas",
+    "image": "https://m.media-amazon.com/images/I/61pTISHTptL.jpg",
+    "download": "https://iedamagri.files.wordpress.com/2014/07/tolstoi-ana-karenina-v1-e-2.pdf",
+    "description": "Toda a diversidade, todo o encanto, toda a beleza da vida é feita de sombra e de luz”, escreve Liev Tolstói no romance que Fiódor Dostoiévski definiu como “impecável”. Publicado originalmente em forma de fascículos entre 1875 e 1877, antes de finalmente ganhar corpo de livro em 1877, Anna Kariênina continua a causar espanto. Como pode uma obra de arte se parecer tanto com a vida? Com absoluta maestria, Tolstói conduz o leitor por um salão repleto de música, perfumes, vestidos de renda, num ambiente de imagens vívidas e quase palpáveis que têm como pano de fundo a Rússia czarista. Nessa galeria de personagens excessivamente humanos, ninguém está inteiramente a salvo de julgamento: não há heróis, tampouco fracassados, e sim pessoas complexas, ambíguas, que não se restringem a fórmulas prontas. Religião, família, política e classe social são postas à prova no trágico percurso traçado por uma aristocrata casada que, ao se envolver em um caso extraconjugal, experimenta as virtudes e as agruras de um amor profundamente conflituoso, “feito de sombra e de luz"
   },
   {
     "id": 406,
-    "name": "What We Leave Behind",
-    "year": "23 de setembro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/W008kyoS2jriK7FlsNMvYI1zIO.jpg",
-    "description": "Aos 89 anos, Julián Moreno faz uma última viagem de ônibus para El Paso, Texas, para visitar suas filhas e seus filhos – uma longa viagem que ele faz sem falta todos os meses há décadas. Depois de retornar ao México rural, ele silenciosamente começa a construir uma casa no terreno baldio ao lado de sua casa. Na ausência de suas visitas físicas, essa nova casa pode diminuir a distância entre seus entes queridos?."
+    "name": "Pequenos Incêndios Por Toda Parte",
+    "year": "2 maio 2018",
+    "author": [
+      {
+        "name": "Celeste Ng"
+      },
+      {
+        "about": "Celeste Ng cresceu em Pittsburgh, Pensilvânia, e Shaker Heights, Ohio, nos Estados Unidos, em uma família de cientistas. Formou-se em Harvard e fez o mestrado em belas-artes pela Universidade de Michigan, onde ganhou o Hopwood Award. Seus ensaios e trabalhos de ficção já foram publicados na One Story, TriQuarterly, Bellevue Literary Review, Kenyon Review Online. Atualmente Ng mora em Cambridge, Massachusetts, com o marido e o filho."
+      },
+      {
+        "photo": "https://m.media-amazon.com/images/I/81p2TgjCSlL.jpg"
+      }
+    ],
+    "pages": "416 páginas",
+    "image": "https://www.intrinseca.com.br/celesteng/img/foto_autora.jpg",
+    "download": "https://www.intrinseca.com.br/upload/livros/1%C2%BACAP_PequenosIncendiosPorTodaParte.pdf",
+    "description": "Em Shaker Heights tudo é planejado: da localização das escolas à cor usada na pintura das casas. E ninguém se identifica mais com esse espírito organizado do que Elena Richardson."
   },
   {
     "id": 407,
-    "name": "Obi-Wan Kenobi: O Retorno do Jedi",
-    "year": "8 de setembro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg",
-    "description": "Com cenas de bastidores nunca vistas, histórias pessoais e momentos significativos, veja a produção da série original da Lucasfilm para o Disney+, Obi-Wan Kenobi, uma história épica que começa 10 anos após os dramáticos eventos de Star Wars: A Vingança dos Sith. Este documentário perspicaz explora o retorno de Obi-Wan Kenobi e Anakin Skywalker à tela – e Ewan McGregor e Hayden Christensen aos seus respectivos papéis clássicos."
+    "name": "É Assim que Acaba",
+    "year": "18 janeiro 2018",
+    "author": [
+      {
+        "name": "Colleen Hoover"
+      },
+      {
+        "about": "Colleen Hoover é um fenômeno editorial, best-seller #1 do New York Times e a autora mais vendida do Brasil, com dois milhões de livros vendidos no país. Em 2015, Colleen e sua família fundaram o The Bookworm Box, um programa sem fins lucrativos. Colleen vive no Texas, com o marido e os três filhos."
+      },
+      {
+        "photo": "https://static.independent.co.uk/2022/10/21/18/book%20main.jpg?quality=75&width=1200&auto=webp"
+      }
+    ],
+    "pages": "368 páginas",
+    "image": "https://m.media-amazon.com/images/I/91r5G8RxqfL.jpg",
+    "download": "https://www.ysk-books.com/app/books/E%20Assim%20que%20Acaba.pdf",
+    "description": "Em É assim que acaba, Colleen Hoover nos apresenta Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, se formou em marketing e abriu a própria floricultura. E é em um dos terraços de Boston que ela conhece Ryle, um neurocirurgião confiante, teimoso e talvez até um pouco arrogante, com uma grande aversão a relacionamentos, mas que se sente muito atraído por ela."
   },
   {
     "id": 408,
-    "name": "Avatar: Scene Deconstruction",
-    "year": "18 de dezembro de 2009",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uCreCQFReeF0RiIXkQypRYHwikx.jpg",
-    "description": "The deconstruction of the Avatar scenes and sets"
+    "name": "As mil partes do meu coração",
+    "year": "5 novembro 2018",
+    "author": [
+      {
+        "name": "Colleen Hoover"
+      },
+      {
+        "about": "Colleen Hoover é um fenômeno editorial, best-seller #1 do New York Times e a autora mais vendida do Brasil, com dois milhões de livros vendidos no país. Em 2015, Colleen e sua família fundaram o The Bookworm Box, um programa sem fins lucrativos. Colleen vive no Texas, com o marido e os três filhos."
+      },
+      {
+        "photo": "https://static.independent.co.uk/2022/10/21/18/book%20main.jpg?quality=75&width=1200&auto=webp"
+      }
+    ],
+    "pages": "336 páginas",
+    "image": "https://m.media-amazon.com/images/I/814pUv-EGbL.jpg",
+    "download": "https://livrogratuitosja.com/wp-content/uploads/2022/08/As-mil-partes-do-meu-coracao-Colleen-Hoover-z-lib.org_.pdf",
+    "description": "Merit Voss está cansada de guardar os segredos de sua família e decide que chegou a hora de desaparecer. Mas antes de sumir do mapa, ela vai revelar um por um, tudo que a família vem guardando por anos."
   },
   {
     "id": 409,
-    "name": "Naruto to Boruto: The Live 2019",
-    "year": "5 de maio de 2019",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8OkxtHotJnegiBbWQSz8fD60NEc.jpg",
-    "description": "“NARUTO to BORUTO THE LIVE 2019”, a special event for the 20th anniversary of the first publication of “NARUTO” series in Weekly Shonen Jump!! Featuring live performances by artists performing the theme songs of both “NARUTO” and “BORUTO: NARUTO NEXT GENERATIONS”, anime cast members reading original story episodes, and more."
+    "name": "Corte de névoa e fúria",
+    "year": "2 agosto 2016",
+    "author": [
+      {
+        "name": "Sarah J. Maas"
+      },
+      {
+        "about": "Sarah J. Maas é uma escritora americana de fantasia, sua obra alcançou o patamar de best-seller do New York Times e USA Today. Ela nasceu em 1986, em Nova York e frequentou o Hamilton College, onde se formou em literatura criativa. Por 3 anos consecutivos, a autora ganhou o Goodreads Choice Awards, uma grande premiação literária que é decidida pelos leitores, na categoria Melhor Fantasia e Ficção Científica Young Adult. Seu livro de estreia, Trono de Vidro, foi publicado em português em 2013 pela Galera Record."
+      },
+      {
+        "photo": "https://bienaldolivro.com.br/wp-content/uploads/2021/08/Sarah_interna_Cre%CC%81dito-Beowulf-Sheehan.jpeg"
+      }
+    ],
+    "pages": "658 páginas",
+    "image": "https://m.media-amazon.com/images/I/81PGQZ8qBlL.jpg",
+    "download": "https://static.tumblr.com/jh0avtj/vj7oyp6rs/corte_de_nevoa_e_furia_-_sarah_j.pdf",
+    "description": "Por amor ela enganou a morte. Por liberdade, ela se tornará uma arma. Corte de névoa e fúria é o esperado segundo volume da saga iniciada em Corte de espinhos e rosas. Sarah J. Maas é uma verdadeira estrela: após apenas uma semana de vendas, a série Corte de Espinhos e Rosas estreou em segundo lugar na lista do New York Times. Ela também é autora da série Trono de Vidro, que já teve mais de 1 milhão de exemplares vendidos."
   },
   {
     "id": 410,
-    "name": "Peaky Blinders: The True Story",
-    "year": "2 de abril de 2016",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4HJ7Qf10XqStvCxrDvrn7UuHG1w.jpg",
-    "description": "A história dos verdadeiros Peaky Blinders e como eles se tornaram uma sensação na TV. Ouça os verdadeiros gângsteres que se tornaram personagens principais da série e os eventos reais por trás de muitas das principais linhas da história, aprenda a identidade da família do crime que inspirou os Shelbys e faça um tour pelos locais do filme onde o mundo sombrio e violento dos Peaky Blinders foi recriado."
-  },
-  {
-    "id": 411,
-    "name": "Cyber Hell: Exposing an Internet Horror",
-    "year": "17 de maio de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eRlW6yvXHyXPuN0Ea6u6Sc48lGm.jpg",
-    "description": "Uma rede de salas de bate-papo online estava repleta de crimes sexuais. Para acabar com ela, foi preciso coragem e perseverança."
-  },
-  {
-    "id": 412,
-    "name": "50 Greatest Harry Potter Moments",
-    "year": "27 de julho de 2011",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g1xiBoLD6v3ZaXPa4QtuXiQeYKW.jpg",
-    "description": "Para marcar o lançamento, há duas semanas, do oitavo e último filme da série, Robbie Coltrane narra uma contagem regressiva dos melhores momentos da franquia de filmes. Desde o primeiro encontro de Harry com Ron e Hermione a bordo do Expresso de Hogwarts até mistérios mágicos."
-  },
-  {
-    "id": 413,
-    "name": "Héctor El Father: Conocerás la verdad",
-    "year": "22 de março de 2018",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tkP0FzEivLxsUYt8BlaL8Sh7ceY.jpg",
-    "description": "sua autobiografia de Hector Delgado corre desde a infância para se tornar um dos maiores expoentes do gênero urbano, mas os resultados dessa vida não o agradaram e o levaram a tentar tirar a vida. Depois de ser vítima de um tiroteio em um serviço estação em Aguada, uma prefeitura de Porto Rico, ele deixou de ganhar pelo menos duzentos dólares americanos para apresentação e ser 'devoto de Jesus'."
-  },
-  {
-    "id": 414,
-    "name": "Jeffrey Dahmer: Mind of a Monster",
-    "year": "25 de maio de 2020",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zL2QPMOtXUpBE9zFTTvH4QziepO.jpg",
-    "description": "Com acesso a centenas de páginas de transcrições da polícia e do FBI e testemunhos pessoais de familiares, amigos e sobreviventes, é revelada a assombrosa história de como Jeffrey Dahmer passou de adolescente tímido a um notório assassino em série e canibal."
-  },
-  {
-    "id": 415,
-    "name": "Dentro da Mente de um Gato",
-    "year": "18 de agosto de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTlxP1yJFPB2jegg4ece5iIWfgr.jpg",
-    "description": "Neste documentário fofo e cativante, profissionais especialistas em gatos exploram a mente dos felinos e revelam suas verdadeiras habilidades."
-  },
-  {
-    "id": 416,
-    "name": "Jackass para Sempre",
-    "year": "1 de fevereiro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zaGCCXBKq34EG7HOMlVKxFcgwr.jpg",
-    "description": "Comemorando a alegria de estar de volta com seus melhores amigos e uma cena perfeitamente executada para o dingdong, a equipe idiota original retorna para outra rodada de apresentações hilárias, absurdas e muitas vezes perigosas de comédia com uma pequena ajuda de um novo elenco emocionante. Johnny e a equipe vão além do limite em idiotas para sempre."
-  },
-  {
-    "id": 417,
-    "name": "Fresh Meat: Jeffrey Dahmer",
-    "year": "24 de novembro de 2021",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zCx7R6sWaAH0fijU54KfWse5JdX.jpg",
-    "description": "This grisy documentary centers around the gruesome psychology of the infamous Jeffrey Dahmer, who lived the double-life of a cannibal."
-  },
-  {
-    "id": 418,
-    "name": "13:14: O Desafio de Ajudar",
-    "year": "16 de setembro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/LryQPhLm53uLmnDQ74yuekrVSJ.jpg",
-    "description": "A jornada de Juanpa Zurita, um jovem influencer que usa a mídia para levantar fundos para a reconstrução de Ocuilan, vilarejo que foi destruído após um forte terremoto em 19 de setembro de 2017, às 13h14. Juanpa e pessoas bem-intencionadas se prontificaram a ajudar, sem saber no que estavam se metendo. O que poderia dar errado com tantas boas intenções?"
-  },
-  {
-    "id": 419,
-    "name": "Introducing Chucky: The Making of Child's Play",
-    "year": "9 de novembro de 1988",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mRTnim0xPxYiH0LWi2O59Lqk2Gd.jpg",
-    "description": "A vintage featurette about the making of Child's Play (1988)."
-  },
-  {
-    "id": 420,
-    "name": "O Assassino da Minha Filha",
-    "year": "12 de julho de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oOpZXefl8hRLD9l4C9gmN6mbTgp.jpg",
-    "description": "Depois de lutar durante décadas para levar o assassino da filha à justiça na França e na Alemanha, um pai toma medidas extremas. Documentário sobre um crime real."
-  },
-  {
-    "id": 421,
-    "name": "Sexology",
-    "year": "22 de dezembro de 2016",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dUomT441VWAQwhjDDnN4Zhoca4q.jpg",
-    "description": "Em um mundo pós-revolução sexual, cerca de um terço de todas as mulheres nunca experimentou um orgasmo. Armados com dados sexuais chocantes, um monte de inseguranças e uma determinação para descobrir a chave para a energia sexual feminina, as cineastas Catherine Oxenberg e Gabrielle Anwar procuram especialistas sexuais, mestres tântricos, pesquisadores e mulheres comuns para descobrir todo o potencial do feminismo."
-  },
-  {
-    "id": 422,
-    "name": "Rubius X",
-    "year": "21 de julho de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6KAAVebtdVb0FRU2PWqYLnhgRA.jpg",
-    "description": "No 10º aniversário da publicação de seu primeiro vídeo na Internet, 'Rubius X' é um documentário que trata da origem, motivação e segredos por trás de Rubius, um dos criadores de conteúdo espanhol mais seguidos no mundo. Uma revisão da história de um pioneiro, ícone de toda uma geração, que representa como poucos a revolução das novas mídias digitais."
-  },
-  {
-    "id": 423,
-    "name": "Pelé",
-    "year": "23 de fevereiro de 2021",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg",
-    "description": "Documentário que retrata a vida de Pelé, da busca pela perfeição à condição de mito. Abrangendo um extraordinário período de 12 anos, a produção mostra como o único jogador a vencer três Copas do Mundo passou de astro do futebol em 1958 a herói nacional em 1970, uma época radical e turbulenta no Brasil."
-  },
-  {
-    "id": 424,
-    "name": "A Arte de Economizar",
-    "year": "6 de setembro de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eVH4Mi6W1sYGrF98wlaQB3WSADi.jpg",
-    "description": "Consultores financeiros dão dicas descomplicadas para pessoas que querem gastar menos e, assim, controlar o próprio orçamento e conquistar seus objetivos."
-  },
-  {
-    "id": 425,
-    "name": "Sobrevivendo ao Paraíso: Contos de Famílias",
-    "year": "3 de março de 2022",
-    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5S5BpLaPPGrDIX9lkJYo7OooHR0.jpg",
-    "description": "A estiagem cada vez mais intensa no deserto do Kalahari ameaça as mais variadas espécies e mostra que a força da família vem do bando."
+    "name": "Uma dama fora dos padrões",
+    "year": "24 julho 2018",
+    "author": [
+      {
+        "name": "Julia Quinn"
+      },
+      {
+        "about": "JULIA QUINN começou a trabalhar em seu primeiro romance um mês depois de terminar a faculdade e nunca mais parou de escrever. Seus livros foram traduzidos para 37 idiomas e ultrapassaram a marca de 15 milhões de exemplares vendidos, sendo mais de 2 milhões no Brasil. A série Os Bridgertons foi adaptada pela Netflix e se tornou um sucesso instantâneo, quebrando os recordes de audiência da plataforma.Julia é formada pelas universidades Harvard e Radcliff e e foi a autora mais jovem a ser incluída na Galeria da Fama dos Escritores Românticos dos Estados Unidos. Atualmente mora com a família no Noroeste Pacífico."
+      },
+      {
+        "photo": "https://s2.glbimg.com/gRG4goR4Xccj8bmg5XIrZkhzoeA=/top/e.glbimg.com/og/ed/f/original/2021/02/03/juliaquinn_portrait-3.jpg"
+      }
+    ],
+    "pages": "272 páginas",
+    "image": "https://m.media-amazon.com/images/I/61kKOCb-pcL.jpg",
+    "download": "https://drive.google.com/file/d/119xWCcgv9wm0R_NJW8G9PrhlVk9YED1Q/view",
+    "description": "Às vezes você encontra o amor nos lugares mais inesperados... Esta não é uma dessas vezes. Todos esperam que Billie Bridgerton se case com um dos irmãos Rokesbys. As duas famílias são vizinhas há séculos e, quando criança, a levada Billie adorava brincar com Edward e Andrew. Qualquer um deles seria um marido perfeito... algum dia. Às vezes você se apaixona exatamente pela pessoa que acha que deveria... Ou não. Há apenas um irmão Rokesby que Billie não suporta: George. Ele até pode ser o mais velho e herdeiro do condado, mas é arrogante e irritante. Billie tem certeza de que ele também não gosta nem um pouco dela, o que é perfeitamente conveniente."
   }
 ]
